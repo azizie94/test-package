@@ -1,5 +1,5 @@
 {
-    "name": "laravel/test-package",
+    "name": "azizie94/test-package",
     "description": "A simple Laravel package for creating products and showing prices based on product type.",
     "type": "library",
     "license": "MIT",
